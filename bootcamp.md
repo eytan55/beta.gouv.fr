@@ -24,7 +24,7 @@ Ensuite, à vous de jouer…
 
 ## Quand ?
 
-Le 30 mars 2016, de 9h30 à 17h30
+Le 30 mars 2016, de 9h30 à 17h30.
 
 ## Où ?
 
@@ -34,7 +34,7 @@ Superpublic, 4 rue la Vacquerie, Paris 11e
 
 Une journée conviviale pour s'entraîner et se rencontrer, culminant en une compétition de pitchs : pas de développements, de maquettes ou de POCs, juste des idées affutées et actionnables.
 
-> « Le pitch est la pratique fondamentale de l’entrepreneur » -- Guy Kawasaki (VP Marketing, Apple; in *L'art de se lancer*)
+> « Le pitch est la pratique fondamentale de l’entrepreneur » — Guy Kawasaki (VP Marketing, Apple, *L'art de se lancer*)
 
 ## Pour qui ?
 
